@@ -2,7 +2,7 @@
 
 _We're not actively hiring right now, but we're always interested in meeting future candidates. Feel free to reach out! :)_
 
-## Who Are We?
+## Who Are We
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
 
