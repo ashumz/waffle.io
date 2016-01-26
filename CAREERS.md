@@ -15,8 +15,7 @@ Are you passionate about improving the lives of developers like yourself? Do you
 We’re looking for **craftswomen and craftsmen** who are **curious**, **creative**, **humble**, and are **empathetic**.
 
 ### Craftsmanship
-
-We take pride in what we build. We focus on delivering the right thing to our customers, and we care deeply about quality. You’ll be a good fit on our team if you value writing tests, love seeing your work go to production with continuous deployments, and strive to make everything you touch just a little bit better when you leave it.
+delivering the right thing to our customers, and we care deeply about quality. You’ll be a good fit on our team if you value writing tests, love seeing your work go to production with continuous deployments, and strive to make everything you touch just a little bit better when you leave it.
 
 ### Curiosity and Creativity
 
