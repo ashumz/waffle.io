@@ -10,7 +10,7 @@ Waffle.io is an Enterprise Lean Startup, running inside one of the largest indep
 
 Are you passionate about improving the lives of developers like yourself? Do you thrive in a startup environment, where it’s up to you to solve a wide range of technical problems and work across the stack? If so, we’d love to meet you!
 
-## Who Are You?
+# Who Are You?
 
 We’re looking for **craftswomen and craftsmen** who are **curious**, **creative**, **humble**, and are **empathetic**.
 
